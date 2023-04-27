@@ -26,10 +26,10 @@ This visual provides insights into the average wait time in minutes for each Adm
 
 Analysis:
 
-•    Hospital staff can see which sources have longer wait times.
-•    Which sources may need more resources and attention.
-•    Helps to make changes to make patients' experiences better.
-•    we can see that patients from the clinic and physician referral and emergency room have to wait much longer than those from other sources, the hospital can focus on reducing wait times for these area.
+<p>•    Hospital staff can see which sources have longer wait times.</p>
+<p>•    Which sources may need more resources and attention.</p>
+<p>•    Helps to make changes to make patients' experiences better.</p>
+<p>•    we can see that patients from the clinic and physician referral and emergency room have to wait much longer than those from other sources, the hospital can focus on reducing wait times for these area.</p>
 
 
 
@@ -53,10 +53,10 @@ The visual provides insights into the breakdown of patients by gender, age group
  
 
 Analysis:
-•    We can use this information to create targeted marketing and services. 
-•    Hospital can make better and informed decisions to improve patient care and satisfaction.
-•    one notable category which appears as the largest rectangle with a dark red color is no religion preferences 
-•    we can decide whether to build a temple or mosque inside a hospital based on the number of patients with religious preferences.
+<p>•    We can use this information to create targeted marketing and services. </p>
+<p>•    Hospital can make better and informed decisions to improve patient care and satisfaction.</p>
+<p>•    one notable category which appears as the largest rectangle with a dark red color is no religion preferences. </p>
+<p>•    we can decide whether to build a temple or mosque inside a hospital based on the number of patients with religious preferences.</p>
 
 
 
@@ -77,12 +77,12 @@ This pie chart is created to show the distribution of patients based on their ad
 
 Analysis:
 
-•    We can Identify the most common sources of patient admissions 
-•    The hospital can make informed decisions about resource allocation and staffing needs.
-•    Identify potential bottlenecks in the admission process.
-•    Discover areas for improvement to enhance patient experience
-•    we can see a large proportion of patients are coming from the emergency room, maybe it is better to increase staffing in that area.
-•    Or Identify potential bottlenecks in physician referral and Outside Home Health Agency
+<p>•    We can Identify the most common sources of patient admissions. </p>
+<p>•    The hospital can make informed decisions about resource allocation and staffing needs.</p>
+<p>•    Identify potential bottlenecks in the admission process.</p>
+<p>•    Discover areas for improvement to enhance patient experience</p>
+<p>•    we can see a large proportion of patients are coming from the emergency room, maybe it is better to increase staffing in that area.</p>
+<p>•    Or Identify potential bottlenecks in physician referral and Outside Home Health Agency.</p>
 
 
 
@@ -101,11 +101,11 @@ This visual provides insights into the Care Score and Logistics Score for each C
 
 Analysis:
 
-•    The Care Score is a rating of the quality of care the patient received and the logistics score.
-•    Identify areas where care or logistics may need improvement.
-•    The hospital can investigate potential causes and make improvements to staff training
-•    Can make improvements in patient care processes to improve the quality of care in that unit.
-•    According to the data, we can see that units like PICU, NICU and etc., have a low Care Score, it indicates that the quality of care provided in these units need improvement.
+<p>•    The Care Score is a rating of the quality of care the patient received and the logistics score.</p>
+<p>•    Identify areas where care or logistics may need improvement.</p>
+<p>•    The hospital can investigate potential causes and make improvements to staff training</p>
+<p>•    Can make improvements in patient care processes to improve the quality of care in that unit.</p>
+<p>•    According to the data, we can see that units like PICU, NICU and etc., have a low Care Score, it indicates that the quality of care provided in these units need improvement.</p>
 
 
 
@@ -117,10 +117,10 @@ Analysis:
 
 Analysis:
 
-•	It shows the top 10 most common diagnoses based on the number of hospital encounters associated with them.
-•	It helps healthcare providers and administrators understand which health issues patients are seeking medical care for the most.
-•	According to the data, a large proportion of patients have Fever NOS, we can inform public health department to address the health issue
-•	Can help in resource allocation decisions for Fever NOS, Acute URI NOS etc.
-•	Also, we can help public health officials, focus their efforts on educating the public about prevalent health issues. Like OTTIS MEDIA NOS, FEVER NOS and etc. 
+<p>•	It shows the top 10 most common diagnoses based on the number of hospital encounters associated with them.</p>
+<p>•	It helps healthcare providers and administrators understand which health issues patients are seeking medical care for the most.</p>
+<p>•	According to the data, a large proportion of patients have Fever NOS, we can inform public health department to address the health issue</p>
+<p>•	Can help in resource allocation decisions for Fever NOS, Acute URI NOS etc.</p>
+<p>•	Also, we can help public health officials, focus their efforts on educating the public about prevalent health issues. Like OTTIS MEDIA NOS, FEVER NOS and etc. </p>
 
 
