@@ -112,7 +112,8 @@ Analysis:
 
 
 5) The top 10 most common diagnoses among both Gender
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/55969892/234994356-0570d1d1-33fc-41af-9453-d1336471076a.png">
+
+![image](https://user-images.githubusercontent.com/55969892/234994381-7b79b504-4cc6-400a-8c53-785b974d6532.png)
 
 Analysis:
 
@@ -122,16 +123,4 @@ Analysis:
 •	Can help in resource allocation decisions for Fever NOS, Acute URI NOS etc.
 •	Also, we can help public health officials, focus their efforts on educating the public about prevalent health issues. Like OTTIS MEDIA NOS, FEVER NOS and etc. 
 
-![image](https://user-images.githubusercontent.com/55969892/234994381-7b79b504-4cc6-400a-8c53-785b974d6532.png)
-
-
- 
-
-Analysis:
-
-•    It shows the top 10 most common diagnoses based on the number of hospital encounters associated with them.
-•    It helps healthcare providers and administrators understand which health issues patients are seeking medical care for the most.
-•    According to the data, a large proportion of patients have Fever NOS, we can inform public health department to address the health issue
-•    Can help in resource allocation decisions for Fever NOS, Acute URI NOS etc.
-•    Also, we can help public health officials, focus their efforts on educating the public about prevalent health issues. Like OTTIS MEDIA NOS, FEVER NOS and etc. 
 
