@@ -5,6 +5,7 @@ Dataset includes a range of information about patients and their hospital encoun
 Dashboard
 
  
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/55969892/234994218-6718d23c-cf1d-4367-b1f2-4ae2bf78751e.png">
 
 
 
@@ -20,7 +21,8 @@ Here is the breakdown of all the analysis:
 
 This visual provides insights into the average wait time in minutes for each Admit Source.
 
- 
+ <img width="468" alt="image" src="https://user-images.githubusercontent.com/55969892/234994252-3c7358da-8c96-43ee-949c-484bebd77e72.png">
+
 
 Analysis:
 
@@ -46,6 +48,7 @@ Analysis:
 2) Patient demographics
 
 The visual provides insights into the breakdown of patients by gender, age group, and religion.
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/55969892/234994280-fcecee20-3826-4d6d-9ea7-1129b6b24941.png">
 
  
 
@@ -70,7 +73,7 @@ Analysis:
 
 This pie chart is created to show the distribution of patients based on their admit source.
 
- 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/55969892/234994299-93b5ff76-b8a1-4098-bf65-7d156bf7918c.png">
 
 Analysis:
 
@@ -94,7 +97,7 @@ Analysis:
 
 This visual provides insights into the Care Score and Logistics Score for each Clinical Unit.
 
- 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/55969892/234994319-46fb9237-574e-49bb-8c4f-fda10fb31473.png">
 
 Analysis:
 
@@ -108,12 +111,19 @@ Analysis:
 
 
 
-
-
-
-
-
 5) The top 10 most common diagnoses among both Gender
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/55969892/234994356-0570d1d1-33fc-41af-9453-d1336471076a.png">
+
+Analysis:
+
+•	It shows the top 10 most common diagnoses based on the number of hospital encounters associated with them.
+•	It helps healthcare providers and administrators understand which health issues patients are seeking medical care for the most.
+•	According to the data, a large proportion of patients have Fever NOS, we can inform public health department to address the health issue
+•	Can help in resource allocation decisions for Fever NOS, Acute URI NOS etc.
+•	Also, we can help public health officials, focus their efforts on educating the public about prevalent health issues. Like OTTIS MEDIA NOS, FEVER NOS and etc. 
+
+![image](https://user-images.githubusercontent.com/55969892/234994381-7b79b504-4cc6-400a-8c53-785b974d6532.png)
+
 
  
 
