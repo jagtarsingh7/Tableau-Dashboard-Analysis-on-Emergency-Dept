@@ -113,7 +113,7 @@ Analysis:
 
 5) The top 10 most common diagnoses among both Gender
 
-![image](https://user-images.githubusercontent.com/55969892/234994381-7b79b504-4cc6-400a-8c53-785b974d6532.png)
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/55969892/234994663-fff24d67-679a-4dd7-a770-a1a52ec1f398.png">
 
 Analysis:
 
